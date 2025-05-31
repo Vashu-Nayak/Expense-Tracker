@@ -2,6 +2,9 @@
 
 An intuitive web application to track and manage your expenses. This project is built using modern web development technologies, ensuring a seamless user experience.
 
+## Live Demo 🚀  
+Frontend: [Netlify Deployment](https://expensetracker-app1.netlify.app/) 
+
 ## Features
 
 - **Add Expenses**: Record your daily expenses with category and description.
